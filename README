@@ -1,0 +1,4 @@
+make
+
+sudo ./mp709 on
+sudo ./mp709 off
